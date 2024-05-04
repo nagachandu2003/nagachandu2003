@@ -1,6 +1,14 @@
 # 💫 About Me:
 I am a prefinal year student at Gayatri Vidya Parishad<br>College of Engineering (Autonomous), Visakhapatnam.<br>I am an aspiring Full Stack Web developer.<br>Looking for Internships...
 
+Some of my Other Projects Deployed Links
+<br/>
+<ul>
+  <li>
+    Trello Home Page : https://nagachandu2003.github.io/Trello-Home-Page/
+  </li>
+</ul>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thatha-naga-chandu-933065226)
