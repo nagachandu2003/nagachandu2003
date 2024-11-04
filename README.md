@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Final year student at Gayatri Vidya Parishad<br>College of Engineering (Autonomous), Visakhapatnam.<br>I am an aspiring Full Stack Web developer.<br>Looking for Full time Roles and internships with PPO...
+I am a Final year student at Gayatri Vidya Parishad College of Engineering (Autonomous), Visakhapatnam.<br>I am an aspiring Full Stack Web developer.<br>Looking for Full time Roles and internships with PPO...
 
 Some of my Other Projects Deployed Links
 <br/>
