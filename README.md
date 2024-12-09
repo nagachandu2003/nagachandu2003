@@ -3,7 +3,6 @@ I am a Final year student at Gayatri Vidya Parishad College of Engineering (Auto
 
 Some of my Other Projects Deployed Links
 <br/>
-[Uploading 10a75943-4654-47af-954c-dc2188b0dd12.webm…]()
 <ul>
   <li>
     Trello Home Page : https://nagachandu2003.github.io/Trello-Home-Page/
